@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue Intro</title>
+</head>
+<body>
+
+<div id="app">
+
+    <h3>{{ title }}</h3>
+
+    <ul>
+        <li v-for="item in items">
+            <button type="button" @click="item.stock += 1">Add</button>
+            <input type="number" v-model.number="item.stock">
+            <button type="button" v-if="item.stock > 0" @click="item.stock -= 1">Reduce</button>
+            {{ item.name }}
+            <b v-if="item.stock === 0">Out of Stock</b>
+        </li>
+        <p>Total Stock {{ getTotalStock }}</p>
+        <hr>
+        <input type="text" v-model="itemName">
+        <input type="number" v-model="itemStock">
+        <button type="button" @click="add()">Add to Cart</button>
+    </ul>
+
+</div>
+
+<script src="vue.js"></script>
+<script>
+
+    const { createApp } = Vue;
+
+    createApp({
+        data() {
+            return {
+                title : "Mini Inventory System",
+                items : [
+                    {id: 0,name: "Book",stock : 5},
+                    {id: 1,name: "Pen",stock : 0},
+                    {id: 2,name: "Ruler",stock : 3}
+                ],
+                itemName: "",
+                itemStock: ""
+
+            }
+        },
+        computed : {
+            getTotalStock() {
+                return this.items.reduce((sum,el) => sum + el.stock ,-0)
+            }
+
+        },
+        methods : {
+            add() {
+                let newItems = {
+                    id : this.items.length,
+                    name : this.itemName,
+                    stock : this.itemStock
+                }
+                return this.items.push(newItems);
+
+            }
+        }
+
+
+
+    }).mount("#app");
+
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
