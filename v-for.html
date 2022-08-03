@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>V-for</title>
+    <style>
+        table{
+            width: 400px;
+            margin-top: 30px;
+            border-collapse: collapse;
+        }
+        th,tr,td{
+            padding: 10px 20px;
+            border: 1px solid black;
+        }
+
+    </style>
+</head>
+<body>
+
+<div id="app">
+
+    <h3>{{ title }} Total {{ itemTotal }}</h3>
+
+    <input type="text" v-model="newItemName" placeholder="Item Name">
+    <input type="number" v-model.number="newItemPrice" @keyup.enter="add()" placeholder="Item Price">
+    <button @click="add()">Add Item</button>
+
+    <table @dblclick="edit()">
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr v-for="item in items">
+                <th>{{ item.id }}</th>
+                <th>{{ item.name }}</th>
+                <th>{{ item.price }}</th>
+            </tr>
+        </tbody>
+    </table>
+
+</div>
+
+<script src="vue.js"></script>
+<script>
+
+    const { createApp } = Vue;
+
+    createApp({
+        data(){
+            return{
+                title : "V-for",
+                items : [
+                    {id:1,name:"apple",price:300},
+                    {id:2,name:"orange",price:150},
+                    {id:3,name:"mango",price:100},
+                ],
+                newItemName: "",
+                newItemPrice: "",
+            }
+        },
+        computed:{
+            itemTotal(){
+                return this.items.length;
+            }
+        },
+        methods:{
+            add(){
+                if(this.newItemName.length > 0 && this.newItemPrice > 0) {
+                    let result =  this.items.push({
+                        id: this.items.length + 1,
+                        name: this.newItemName,
+                        price: this.newItemPrice
+                    });
+                    this.newItemName = "";
+                    this.newItemPrice = "";
+                    return result;
+                }
+            },
+            edit() {
+                alert('U Edit');
+            }
+        }
+
+
+    }).mount('#app')
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="820dab0f-c166-421c-969e-4aa8b68aeec5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/src/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/src/components/ListTitle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/first-app/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/src/assets/manchester-united-stadium-wallpaper-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/src/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/src/components/Backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/test-app/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/src/components/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/src/components/ListTitle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-cli/vue-cli-todo-app/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/.idea/SWD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/.idea/SWD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/10-useful-methods-for-js-array.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/10-useful-methods-for-js-array.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/10-useful-string-methods-in-js.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/10-useful-string-methods-in-js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/10useful-math-methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/10useful-math-methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/5useful-number-methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/5useful-number-methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/Display-flex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/Display-flex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/JavaScript/covid19.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/JavaScript/covid19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/JavaScript/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/JavaScript/new.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/SASS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/SASS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/SASS/mine/my.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/SASS/mine/my.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/SWDpart-1/Day-1/html-behind-the-scenes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/SWDpart-1/Day-1/html-behind-the-scenes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/SWDpart-1/Day-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/SWDpart-1/Day-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/U-dont-know-5html-tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/U-dont-know-5html-tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/css/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/admin_dashboard/project/css/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/admin_dashboard/project/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/item_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/admin_dashboard/project/item_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/item_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/admin_dashboard/project/item_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/admin_dashboard/project/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/js/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/admin_dashboard/project/js/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/vendor/chart_js/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/admin_dashboard/project/vendor/popper/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/admin_dashboard/project/vendor/popper/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/01_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/01_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/02_utilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/02_utilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/03_grid-system.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/03_grid-system.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/04_utilities_and_responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/04_utilities_and_responsive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/05_components.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/05_components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/06_table_img_typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/06_table_img_typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/07_utilities_final.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/07_utilities_final.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/08_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/08_cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/09_carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/09_carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/10_modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/10_modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/11_3poper.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/11_3poper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/12_3-components.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/12_3-components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/12_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/12_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/13_form_element.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/13_form_element.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/14_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/14_nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/15_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/15_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/bootstrap/16_v5.1bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/bootstrap/16_v5.1bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/chart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/chart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/counter_up_and_waypoint.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/counter_up_and_waypoint.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/covid19-loop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/covid19-loop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-animation-libery.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-animation-libery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-animation-particle-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-animation-particle-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-animation-particle-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-animation-particle-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-animation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-animation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-gradient-blur-particle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-gradient-blur-particle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-position.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-position.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-property-final.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-property-final.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-property-img.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-property-img.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-property.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-property.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-selector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-shape.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-shape.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css-transform.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css-transform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/css/facebook-ui-design.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/css/facebook-ui-design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/datatable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/datatable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/display-flex-part-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/display-flex-part-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/document-object-model.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/document-object-model.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/dom-node.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/dom-node.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/event-delegation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/event-delegation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/fa-animation-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/fa-animation-project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/facebook-ui-design.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/facebook-ui-design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/jQuery/add-remove.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/jQuery/add-remove.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/jQuery/css_manipulation.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/jQuery/css_manipulation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/jQuery/html_val_attr.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/jQuery/html_val_attr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/jQuery/js-animate.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/jQuery/js-animate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-async-function.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-async-function.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-bom-timing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-bom-timing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-callback.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-callback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-date.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-date.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-event-capturing-bubbling.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-event-capturing-bubbling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-fetch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-fetch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-piano-part1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-piano-part1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-promise.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-promise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-spread-operator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-spread-operator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-to-do-part-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-to-do-part-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-try-catch.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-try-catch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/js-web-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/js-web-api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/brands.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/brands.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/brands.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/brands.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/fontawesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/fontawesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/fontawesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/regular.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/regular.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/regular.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/regular.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/solid.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/solid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/solid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/solid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/svg-with-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/svg-with-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/svg-with-js.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/svg-with-js.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-font-face.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-font-face.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-font-face.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-font-face.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-shims.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-shims.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-shims.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v4-shims.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v5-font-face.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v5-font-face.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v5-font-face.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/css/v5-font-face.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/brands.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/brands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/brands.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/brands.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/conflict-detection.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/conflict-detection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/conflict-detection.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/conflict-detection.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/fontawesome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/fontawesome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/fontawesome.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/fontawesome.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/regular.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/regular.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/regular.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/regular.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/solid.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/solid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/solid.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/solid.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/v4-shims.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/v4-shims.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/v4-shims.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/js/v4-shims.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_animated.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_bordered-pulled.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_core.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_core.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_fixed-width.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_icons.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_list.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_list.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_rotated-flipped.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_screen-reader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_shims.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_shims.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_sizing.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_sizing.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_stacked.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/_variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/brands.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/brands.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/fontawesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/fontawesome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/regular.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/regular.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/solid.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/solid.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/v4-shims.less" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/less/v4-shims.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_animated.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_bordered-pulled.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_fixed-width.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_rotated-flipped.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_shims.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_sizing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_stacked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/brands.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/brands.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/fontawesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/fontawesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/regular.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/regular.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/solid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/solid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/v4-shims.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/scss/v4-shims.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/sprites/brands.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/sprites/brands.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/sprites/regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/sprites/regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/sprites/solid.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/sprites/solid.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/svgs/brands/wirsindhandwerk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/library/fontawesome-free-6.0.0-web/svgs/brands/wirsindhandwerk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/loop-chess-board.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/loop-chess-board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/loop-while-dowhile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/loop-while-dowhile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/css/night-mood.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/css/night-mood.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/js/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/vendor/antimate-it/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/mini-project/exchange-calc/project/vendor/antimate-it/animate.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/most-popular-array-methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/most-popular-array-methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/new-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/new-api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/option-group.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/option-group.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/responsive-nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/responsive-nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/slick.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/slick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/star-loop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/star-loop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/summernote.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/summernote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/vendor/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/vendor/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/venobox.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/venobox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/waypoint.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/waypoint.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWD/wow.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SWD/wow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/.idea/profile-website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/.idea/profile-website.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/project/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/project/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/project/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/project/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/project/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/project/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profile-website/project/vendor/popper/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../profile-website/project/vendor/popper/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vue-lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vue-lessons.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../restaurant" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2CF8TkZws0xV0hncbEbwW92CInR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testing" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="820dab0f-c166-421c-969e-4aa8b68aeec5" name="Changes" comment="" />
+      <created>1658386983286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658386983286</updated>
+      <workItem from="1658386985324" duration="1753000" />
+      <workItem from="1658389489811" duration="3671000" />
+      <workItem from="1658413058485" duration="53000" />
+      <workItem from="1658457108791" duration="5902000" />
+      <workItem from="1658562197572" duration="12268000" />
+      <workItem from="1658590916570" duration="3494000" />
+      <workItem from="1658632663133" duration="719000" />
+      <workItem from="1658643514295" duration="9571000" />
+      <workItem from="1658655028640" duration="4667000" />
+      <workItem from="1658807424245" duration="6445000" />
+      <workItem from="1658815640622" duration="10539000" />
+      <workItem from="1658911224084" duration="6311000" />
+      <workItem from="1658975893087" duration="7201000" />
+      <workItem from="1658990628235" duration="668000" />
+      <workItem from="1659080670065" duration="1736000" />
+      <workItem from="1659104883543" duration="1441000" />
+      <workItem from="1659151191086" duration="901000" />
+      <workItem from="1659152832252" duration="210000" />
+      <workItem from="1659153058687" duration="1706000" />
+      <workItem from="1659166545316" duration="3780000" />
+      <workItem from="1659171257359" duration="3325000" />
+      <workItem from="1659243134263" duration="3406000" />
+      <workItem from="1659247935982" duration="1843000" />
+      <workItem from="1659259881859" duration="1921000" />
+      <workItem from="1659263933450" duration="2693000" />
+      <workItem from="1659353228438" duration="3077000" />
+      <workItem from="1659357539266" duration="1781000" />
+      <workItem from="1659415738634" duration="1829000" />
+      <workItem from="1659421572095" duration="245000" />
+      <workItem from="1659517322845" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

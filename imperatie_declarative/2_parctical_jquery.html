@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Jquery</title>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.css">
+</head>
+<body>
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col-8">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-between">
+                            <h3 id="display"></h3>
+                            <button type="button" class="btn btn-outline-danger" id="del">
+                                del
+                            </button>
+                        </div>
+                        <div class="row" id="word">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="bootstrap/js/jquery.js"></script>
+<script>
+
+    let voice = ["we","want","our","vote","justice","leader","must","respect","release","democracy","need","win"];
+
+    voice.map(el => {
+        $("#word").append(`
+                        <div class="col-4 mt-3" >
+                            <div class="card p-5 d-flex justify-content-center align-items-center our-voice">
+                                ${el}
+                            </div>
+                        </div>
+        `)
+    });
+
+    $(".our-voice").click(function () {
+        $("#display").append($(this).text())
+        $(this).addClass('bg-light');
+    });
+
+    $("#del").click(function () {
+        $("#display").html("");
+        $(".our-voice").removeClass("bg-light")
+    });
+
+
+</script>
+
+</body>
+</html>

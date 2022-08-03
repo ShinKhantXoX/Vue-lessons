@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SWD/.idea/SWD.iml" filepath="$PROJECT_DIR$/../SWD/.idea/SWD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cssanimationbatch3/.idea/cssanimationbatch3.iml" filepath="$PROJECT_DIR$/../cssanimationbatch3/.idea/cssanimationbatch3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework-master/.idea/homework-master.iml" filepath="$PROJECT_DIR$/../homework-master/.idea/homework-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mentionhospital/.idea/mentionhospital.iml" filepath="$PROJECT_DIR$/../mentionhospital/.idea/mentionhospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../planncohomedecoration/.idea/planncohomedecoration.iml" filepath="$PROJECT_DIR$/../planncohomedecoration/.idea/planncohomedecoration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../profile-website/.idea/profile-website.iml" filepath="$PROJECT_DIR$/../profile-website/.idea/profile-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restaurant/.idea/restaurant.iml" filepath="$PROJECT_DIR$/../restaurant/.idea/restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/.idea/testing.iml" filepath="$PROJECT_DIR$/../testing/.idea/testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/vue-lessons.iml" filepath="$PROJECT_DIR$/.idea/vue-lessons.iml" />
     </modules>
   </component>

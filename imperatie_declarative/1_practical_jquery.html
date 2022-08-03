@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Js</title>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.css">
+</head>
+<body>
+
+
+<div class="container">
+    <div class="row my-5 justify-content-center">
+        <div class="col-4">
+            <div class="card">
+                <div class="card-body">
+                    <div class="border-3 p-3 rounded mb-3">
+                        <h3 class="text-end" id="result">0</h3>
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <input type="text" placeholder="Input 1" id="input1" class="form-control form-control-lg">
+                        </div>
+                        <div class="col-6">
+                            <input type="text" placeholder="Input 2" id="input2" class="form-control form-control-lg">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6 mt-3">
+                            <button class="btn btn-outline-primary w-100" id="calc">Calculate</button>
+                        </div>
+                        <div class="col-6 mt-3">
+                            <button class="btn btn-primary w-100" id="save">Save</button>
+                        </div>
+                    </div>
+                    <ul id="history" class="mt-3"></ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="bootstrap/js/jquery.js"></script>
+<script>
+
+    let historys = [];
+
+    $('#calc').click(function () {
+        let input1 =  $("#input1").val();
+        let input2 =  $("#input2").val();
+
+        $("#result").html(`${input1} + ${input2} = ${Number(input1) + Number(input2)}`);
+        $("#input1,#input2").val("");
+
+    });
+
+    $("#save").click(function () {
+       let result = $("#result").html();
+        $("#history").append(`<li>${result}</li>`);
+        $("#result").html(0);
+    });
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue Computed</title>
+</head>
+<body>
+
+<div id="app">
+
+    <h2>{{ title }}</h2>
+    <h3>{{ name }}</h3>
+
+    <h4>length - {{ nameOfLength }}</h4>
+    <h4>Start - {{ start }}</h4>
+    <h4>Reverse - {{ nameOfReverse }}</h4>
+    <h4>Sort - {{ nameToSort }}</h4>
+
+</div>
+
+<script src="vue.js"></script>
+<script>
+
+    const { createApp } = Vue;
+
+    createApp({
+        data(){
+            return {
+                title : 'Vue Computed',
+                name : 'Shin Khant'
+            }
+        },
+        computed : {
+            nameOfLength(){
+                return this.name.length;
+            },
+            start(){
+                return this.name[0];
+            },
+            nameOfReverse(){
+                let nameArr = this.name.split("");
+                let nameReverse = nameArr.reverse();
+                let result = nameReverse.join("")
+                return result;
+            },
+            nameToSort() {
+                return this.name.split(" ").map(el => el[0]).join(" ");
+            }
+
+        }
+
+    }).mount('#app');
+
+</script>
+</body>
+</html>

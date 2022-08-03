@@ -4,5 +4,13 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="mentionhospital" />
+    <orderEntry type="module" module-name="cssanimationbatch3" />
+    <orderEntry type="module" module-name="restaurant" />
+    <orderEntry type="module" module-name="planncohomedecoration" />
+    <orderEntry type="module" module-name="SWD" />
+    <orderEntry type="module" module-name="profile-website" />
+    <orderEntry type="module" module-name="homework-master" />
+    <orderEntry type="module" module-name="testing" />
   </component>
 </module>
